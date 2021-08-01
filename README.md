@@ -59,6 +59,8 @@ The model is trained with data from https://www.sciencedirect.com/science/articl
 - Follow instructions from https://github.com/lobe/flask-server#readme
 - Instead of using files from the above repository, download from 'Model' in this repository
 - Deploy Flask app to IBM Cloud: https://github.com/IBM/python-flask-app
+- Clone Adalo app https://previewer.adalo.com/37d703b5-0b11-4880-abeb-ccf7fdb1e9f8
+- Connect app to IBM Cloud: https://help.adalo.com/integrations/custom-actions
 
 ## Built with
 
@@ -69,4 +71,9 @@ The model is trained with data from https://www.sciencedirect.com/science/articl
 ## License
 
 This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details.
+
+## Acklowedgments
+
+For the purposes of creating an MVP, LOBE.AI was used to create the ML model. The code provided in this repo is thanks to Lobe.
+
 
