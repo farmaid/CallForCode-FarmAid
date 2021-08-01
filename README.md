@@ -14,7 +14,7 @@ However, due to infrastructural and financial limitations, smallholder farmers a
 
 ### How can technology help?
 
-AI and ML has the potential to act as an early warning system for smallholder farmers to take mitigating action. For example, equipped with the knowledge that therere will be damaging winds on Thursday, a farmer could harvest their crop on Tuesday. While the early harvest will have a small impact on quality due to ripenessm, this impact pales in comparison to the destruction that would have been caused by the damaging winds.
+AI and ML has the potential to act as an early warning system for smallholder farmers to take mitigating action. For example, equipped with the knowledge that there will be damaging winds on Thursday, a farmer could harvest their crop on Tuesday. While the early harvest may have a small impact on quality due to under-ripeness, this impact pales in comparison to the destruction that would have been caused by the damaging winds.
 
 <b>The current crop disease model can predict the four most common types of crop disease (and differentiate these from a healthy leaf) with 99% accuracy.</b>
 
