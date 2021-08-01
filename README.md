@@ -44,8 +44,7 @@ AI and ML has the potential to act as an early warning system for smallholder fa
 FarmAid utilises no-code machine learning and public image datasets to train predictive models for crop disease outbreak. The final version will also combine weather data and agronomic models to create a 'Crop Damage Index'. The index can be used to alert farmers of upcoming adverse events, inform local agronomists, and provide index insurance against predicted crop damage. 
 
 ## Demo video
-
-[![Watch the video](https://youtu.be/UPsqNQ4bUFU)
+[![Watch the video](https://img.youtube.com/vi/UPsqNQ4bUFU/0.jpg)](https://youtu.be/UPsqNQ4bUFU)
 
 ## The architecture
 
