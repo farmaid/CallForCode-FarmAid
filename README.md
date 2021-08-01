@@ -31,7 +31,7 @@ The following represents the intended architecture once the platform is fully mi
 
 ![Video transcription/translation app](https://github.com/farmaid/CallForCode-FarmAid/blob/main/images/IBMSUBMISSIONDIAGRAM.png?raw=true)
 
-1. The user navigates uses the app interface to take or upload a photograph of potential crop disease.
+1. The user navigates the app interface to take or upload a photograph of potential crop disease.
 2. The TensorFlow model via Docker with Flask framework detects the presence of crop disease.
 3. Watson Assistant takes input from internal and external databases to provide details specific to the context of the user.
 4. The user receives push notifications when relevant information is received by the cloud infrastructure.
