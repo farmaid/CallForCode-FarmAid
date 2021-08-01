@@ -54,9 +54,11 @@ See below for our proposed schedule on next steps after Call for Code 2021 submi
 
 ## Getting started
 
-The following code is modified from Lobe.AI (Copyright Microsoft). The model is trained with data from https://www.sciencedirect.com/science/article/pii/S2352340921004261.
+The model is trained with data from https://www.sciencedirect.com/science/article/pii/S2352340921004261.
 
--
+- Follow instructions from https://github.com/lobe/flask-server#readme
+- Instead of using files from the above repository, download from 'Model' in this repository
+- Deploy Flask app to IBM Cloud: https://github.com/IBM/python-flask-app
 
 ## Built with
 
